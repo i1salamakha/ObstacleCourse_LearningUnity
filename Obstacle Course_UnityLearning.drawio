@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-03T16:49:35.243Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="gNAWUHu7bYKrNfHmtVrb" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-03T17:34:22.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="DjNbKDVp1bTvILMylppX" version="20.4.0" type="github">
   <diagram id="qY9F_2r19FIubITi8uI_" name="Page-1">
     <mxGraphModel dx="732" dy="676" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -39,13 +39,13 @@
         <mxCell id="4rYyuYkQKAqVBbW7f5G8-5" value="Player" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;" vertex="1" parent="1">
           <mxGeometry x="433.5" y="157.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4rYyuYkQKAqVBbW7f5G8-8" value="Player Name:&lt;br&gt;Steve" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
+        <mxCell id="4rYyuYkQKAqVBbW7f5G8-8" value="Name:&lt;br&gt;Steve" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
           <mxGeometry x="524" y="49" width="79" height="57" as="geometry" />
         </mxCell>
         <mxCell id="4rYyuYkQKAqVBbW7f5G8-10" value="" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
           <mxGeometry x="532" y="236" width="79" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="4rYyuYkQKAqVBbW7f5G8-12" value="Text" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;" vertex="1" parent="1">
+        <mxCell id="4rYyuYkQKAqVBbW7f5G8-12" value="Boundry" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;" vertex="1" parent="1">
           <mxGeometry x="541.5" y="249.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
